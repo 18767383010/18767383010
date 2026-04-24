@@ -1,4 +1,4 @@
-# 👋 Hi, I'm chen wei han
+# 👋 Hi, I'm 陈威翰
 
 🎓 大三计算机专业在读
 💻 正在学习  SpringBoot 和 Vue 以及 数据库
